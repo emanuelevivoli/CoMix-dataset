@@ -1,13 +1,13 @@
-# CoMix: Comprehensive Benchmark for Multi-Task Comic Understanding
+# CoMix Dataset & Benchmark
 
-This is the official repository for the CoMix multi-task benchmark.
-The two resources we link here are:
-- CVAT page where a user can see the (VAL) annotations
-- Competition webpage where we host the held-out TEST set and the leaderboard
+[![arXiv](https://img.shields.io/badge/arXiv-2407.03550-b31b1b.svg)](https://arxiv.org/abs/2407.03550)
 
-Regarding CVAT, in the submitted paper there are the specifics regarding hostname:port, and username:password to use to enter CVAT. This is to allow reviewers to check the data availability and quality, but not the public, yet.
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emanuelevivoli/CoMix)
 
-Instead, for the competition, the page is hosted together with the Robust Reading Competition, [Comics Understanding](https://rrc.cvc.uab.es/?ch=31).
+The code for the NeurIPS paper ``CoMix: Comprehensive Benchmark for Multi-Task Comic Understanding`` has been included in [CoMix](https://github.com/emanuelevivoli/CoMix). 
+Please, check it out and give it a ✨ star 🌟 !
 
 ## Contacts
-For every question, please contact [ME](mailto:evivoli@cvc.uab.cat)
+The competition page is hosted together with the Robust Reading Competition, at [Comics Understanding](https://rrc.cvc.uab.es/?ch=31).
+
+For every question, please contact [ME](mailto:evivoli@cvc.uab.cat). 
