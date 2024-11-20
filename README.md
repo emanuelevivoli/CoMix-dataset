@@ -11,3 +11,6 @@ Please, check it out and give it a ✨ star 🌟 !
 The competition page is hosted together with the Robust Reading Competition, at [Comics Understanding](https://rrc.cvc.uab.es/?ch=31).
 
 For every question, please contact [ME](mailto:evivoli@cvc.uab.cat). 
+
+## Acknowledgments
+Parts of this project page were adopted from the [Nerfies](https://nerfies.github.io/) page and [Academic project page template](https://github.com/eliahuhorwitz/Academic-project-page-template).
